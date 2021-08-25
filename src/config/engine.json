@@ -1,0 +1,27 @@
+{
+  "engineName": "imvelo-search",
+  "endpointBase": "https://imvelo-befed5.ent.eu-central-1.aws.cloud.es.io",
+  "searchKey": "search-gbqhz98zc8apb3iqhpx2fcz9",
+  "resultFields": [
+    "klassificering",
+    "data",
+    "produktbeteckning",
+    "farliga_komponenter",
+    "faroangivelse",
+    "skyddsangivelse",
+    "kategori",
+    "id"
+  ],
+  "sortFields": [
+    "kategori",
+    "produktbeteckning"
+  ],
+  "facets": [
+    "faroangivelse",
+    "kategori",
+    "skyddsangivelse",
+    "farliga_komponenter"
+  ],
+  "titleField": "produktbeteckning",
+  "urlField": "data"
+}
