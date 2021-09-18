@@ -1,6 +1,6 @@
 {
   "engineName": "imvelo-search",
-  "endpointBase": "https://imvelo-befed5.ent.eu-central-1.aws.cloud.es.io",
+  "endpointBase": "https://ea2b9e38cdb6410b8ac920c8bbe2831c.ent-search.eu-central-1.aws.cloud.es.io",
   "searchKey": "search-gbqhz98zc8apb3iqhpx2fcz9",
   "resultFields": [
     "klassificering",
